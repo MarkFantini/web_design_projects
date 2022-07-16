@@ -8,3 +8,6 @@ Phrasing category sample: abbr, b, br, cite, code, del, dfn, em, i, ins, kbd, ma
 
 
 You should use the pre element for text that needs to have its whitespace preserved. Formally, pre stands for “preformatted text.”
+
+
+The span element (like the div block element) has no innate characteristics, either with regard to content or with regard to presentation. Its presentation characteristics are given to it explicitly by CSS. If you want to apply formatting to some text, and the text doesn’t coincide with one of the other container elements, then put the text in a span element and apply CSS to the span element.
