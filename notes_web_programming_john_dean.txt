@@ -7,3 +7,4 @@ Flow category sample: blockquote, div, hr, p, pre, script, sup
 Phrasing category sample: abbr, b, br, cite, code, del, dfn, em, i, ins, kbd, mark, q, s, samp, small, span, strong, sub, time, u, var, wbr
 
 
+You should use the pre element for text that needs to have its whitespace preserved. Formally, pre stands for “preformatted text.”
